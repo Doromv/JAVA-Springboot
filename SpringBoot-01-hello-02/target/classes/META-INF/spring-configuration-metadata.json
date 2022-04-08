@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.doromv.boot.been.Person",
+      "sourceType": "com.doromv.boot.been.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.all-pets",
+      "type": "java.util.Map<java.lang.String,java.util.List<com.doromv.boot.been.Pet>>",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.animal",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.interests",
+      "type": "java.lang.String[]",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.pet",
+      "type": "com.doromv.boot.been.Pet",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.salarys",
+      "type": "java.util.Set<java.lang.Double>",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.score",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.doromv.boot.been.Person"
+    },
+    {
+      "name": "person.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.doromv.boot.been.Person"
+    }
+  ],
+  "hints": []
+}

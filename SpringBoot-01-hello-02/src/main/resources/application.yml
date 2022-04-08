@@ -1,0 +1,34 @@
+person:
+  userName: Doromv
+  boos: true
+  Date: 2001/02/02
+  age: 21
+  interests:
+    - 篮球
+    - 足球
+    - 乒乓球
+  animal:
+    - 猫
+    - 狗
+    - 熊猫
+  score:
+    englishi: 80
+    math: 80
+    chinese: 80
+  salary:
+    - 9999
+    - 9998
+  Pet:
+    name: 咪咪
+    weight: 5
+  allPets:
+    sick:
+      - {name: 小希,weight: 7}
+      - {name: 小玉,weight: 8}
+      - name: 小宠
+        weight: 9
+    health:
+      - name: 小胖
+        weight: 7
+      - name: 小天
+      - weight: 5
